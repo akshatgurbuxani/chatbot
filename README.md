@@ -2,11 +2,11 @@
 
 # Project Overview
 
-The project aims to supports Boston Public Schools by simplifying access to English language public policy information through an intuitive RAG-based chatbot. Acting as a virtual assistant, the chatbot helps staff find policy-related answers and documents quickly, saving time on administrative tasks. By organizing policy documents into searchable pieces and using smart retrieval tools, it delivers accurate, clear responses through a user-friendly interface. With a focus on privacy and reliability, the chatbot enhances decision-making and streamlines navigating complex policies.
+The project aims to support Boston Public Schools by simplifying access to English-language public policy information through an intuitive RAG-based chatbot. Acting as a virtual assistant, the chatbot helps staff find policy-related answers and documents quickly, saving time on administrative tasks. By organizing policy documents into searchable pieces and using smart retrieval tools, it delivers accurate, clear responses through a user-friendly interface. Focusing on privacy and reliability, the chatbot enhances decision-making and streamlines navigating complex policies.
 
 # Public Policies
 
-The following link provides access to the official policies of the Boston Public Schools. These policies cover a wide range of areas, including academic guidelines, student conduct, safety protocols, and other important regulations governing the operations of the school district.
+The following link provides access to Boston Public Schools' official policies. These policies cover a wide range of topics, including academic guidelines, student conduct, safety protocols, and other important regulations governing the school district's operations.
 
 You can view the complete list of policies and guidelines by visiting the link below:  
 Link: [Boston Public Schools Policies](https://www.bostonpublicschools.org/domain/1884)
@@ -38,7 +38,7 @@ export LANGCHAIN_TRACING_V2="true"
 ```  
 Replace `'your-openai-api-key'` and `'your-langchain-api-key'` with your actual API keys.  
 
-This application runs well for python verisons > 3.8, up til version specified in 'python_version.txt'
+This application runs well for python versions> 3.8, up to the version specified in 'python_version.txt'
 
 ## Step 3: Run the Chatbot Application  
 Start the chatbot by running the following command:  
